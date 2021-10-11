@@ -18,3 +18,14 @@ a forma como transcrevemos situações do mundo real para nossas aplicações
     métodos/comportamentos
 
     ex: exibirResumoProduto, alterarValorProduto
+
+
+
+<!-- importante -->
+
+- em php, para declarar uma classe usa-se a palavra reservada class
+
+- para acessar um atributo de um objeto, não usa-se ponto (.), e sim (->)
+
+- para referenciar o proprio objeto usamos $this
+ex: $this->nome
