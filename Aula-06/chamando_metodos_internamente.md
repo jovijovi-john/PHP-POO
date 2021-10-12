@@ -1,0 +1,1 @@
+nessa aula apenas trocamos dentro do método resumirCadFunc os $this->atributo por $this->__get(atributo); 
