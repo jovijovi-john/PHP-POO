@@ -7,7 +7,7 @@
         // mysql_query($sql);
         
         if (!file_exists("require_arquivoA.php")){
-            throw new Exception("O arquivo deveria estar disponível às ".date("d/m/Y H:i:s").";mas não estava. Vamos seguir mesmo assim");
+            throw new Exception ("O arquivo deveria estar disponível às ".date("d/m/Y H:i:s").";mas não estava. Vamos seguir mesmo assim");
         };
 
     } catch (Error $e) {
