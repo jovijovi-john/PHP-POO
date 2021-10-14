@@ -38,6 +38,9 @@
 
 
     class Cliente implements CadastroInterface, \A\CadastroInterface{
+
+        
+        // ta implementando a interface do namespace B e a do namespace A
         
         public $nome = "Jovi";
 
