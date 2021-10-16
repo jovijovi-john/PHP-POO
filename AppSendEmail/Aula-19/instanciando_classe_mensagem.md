@@ -1,0 +1,1 @@
+nessa aula instanciamos a classe mensagem com os atributods privados: para, assunto e mensagem. Além disso implementamos os métodos mágicos __get e __set 
